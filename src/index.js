@@ -1,4 +1,5 @@
 import "./style.css";
 import { home } from "./home.js";
-
-home();
+import { menu } from "./menu.js";
+import { about } from "./about.js";
+about();
